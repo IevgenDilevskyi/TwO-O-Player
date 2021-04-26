@@ -1,5 +1,3 @@
-require './turn'
-
 class Question
 
   attr_accessor :correct_answer
@@ -14,7 +12,3 @@ class Question
 
 
 end
-
-# question = Question.new
-# puts "Turn #{turn.turn}"
-# question.random_num

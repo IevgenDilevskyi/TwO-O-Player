@@ -1,6 +1,5 @@
 require './player'
 require './question'
-require './turn'
 
 class Game
 
@@ -45,11 +44,6 @@ class Game
       end
       
     end
-
-
-
-
-
 
   end
 

@@ -1,4 +1,3 @@
-
 class Player
 
   attr_accessor :name, :lives
@@ -14,6 +13,3 @@ class Player
   end
 
 end
-
-# puts player1.win
-# puts player1.loose
